@@ -22,17 +22,17 @@ As we release ideas and designs, we will add them here.
 
 I initially identified four use cases.
 
-**Truly portable**
-Run the fume-extractor continuously for 8-10 hours with the built-in battery pack before re-charging.
+- **Truly portable**
+        - Run the fume-extractor continuously for 8-10 hours with the built-in battery pack before re-charging.
 
-**Wall outlet powered**
-Run the unit from either a USB power bank or a USB wall adapter.
+- **Wall outlet powered**
+        - Run the unit from either a USB power bank or a USB wall adapter.
 
-**Detach the electronic unit, and use it to charge lithium cells**
-I create multiple uses of the core unit and do not waste unnecessary resources for only a single-use case.
+- **Detach the electronic unit, and use it to charge lithium cells**
+        - I create multiple uses of the core unit and do not waste unnecessary resources for only a single-use case.
 
-**Detach the electronic unit, and use it as a power bank with the built-in microcontroller**
-Use the detached unit with a microcontroller in other Arduino projects to keep this from becoming scrap.
+- **Detach the electronic unit, and use it as a power bank with the built-in microcontroller**
+        - Use the detached unit with a microcontroller in other Arduino projects to keep this from becoming scrap.
 
 
 ## Mynotes
@@ -41,12 +41,12 @@ Use the detached unit with a microcontroller in other Arduino projects to keep t
 
 ## Project log
 
-Follow the daily progress project log on Hackaday. 
+Follow the daily progress project log on [Hackaday](https://hackaday.io/project/187925-solder-fume-extraction-station-deluxe-from-scrap). 
 
 
 ## Planned Improvements/Changes
 
-For planned changes, improvements, and possible encountered issues, please visit the [GitHub issues tracker](https://github.com/berrak/solder-fume-extractor-hw/issues).
+For planned changes, improvements, and possible encountered issues, please visit the [GitHub issues tracker](https://github.com/berrak/solder-fume-extractor-hw/issues), or join the discussion on `Hackaday`.
 
 ## About structure
 
