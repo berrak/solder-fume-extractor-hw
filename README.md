@@ -16,14 +16,14 @@ Hackaday project repository for the [Solder Fume Extractor Deluxe](https://hacka
 
 In this repository, you'll find KiCad design files and Gerbers files ready to send to [JLCPCB](https://jlcpcb.com), [PCBWay](https://www.pcbway.com) [Oshpark](https://oshpark.com), or a similar PCB prototype supplier.
 
-As we release ideas and designs, we will add them here.
+As we release ideas and designs, we will add them here. Also, find all the Arduino code (under development) in the [GitHub repository](https://github.com/berrak/SolderFumeFanExtractor) related to the hardware.
 
 ## Use cases
 
 I initially identified four use cases.
 
 - **Truly portable**
-        - Run the fume-extractor continuously for 8-10 hours with the built-in battery pack before re-charging.
+        - Run the fume extractor continuously for 8-10 hours with the built-in battery pack before re-charging.
 
 - **Wall outlet powered**
         - Run the unit from either a USB power bank or a USB wall adapter.
